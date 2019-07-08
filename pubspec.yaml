@@ -60,6 +60,25 @@ flutter:
     - assets/images/sambal-gowang.jpg
     - assets/images/sosis-panggang.jpg
     - assets/images/tikus-goreng.jpg
+    - assets/images/kue-putu.jpg
+    - assets/images/buah-naga.jpg
+    - assets/images/puding-mozaik.jpg
+    - assets/images/puding-labu.jpg
+    - assets/images/brownies-cokelat.jpg
+    - assets/images/browkat.jpg
+    - assets/images/cake-kukus.jpg
+    - assets/images/brownies-cream.jpg
+    - assets/images/muffin.jpg
+    - assets/images/bakso.jpg
+    - assets/images/ayam-asam-manis.jpg
+    - assets/images/brokoli-siram-kepiting.jpg
+    - assets/images/ikan-pindang-toap.jpg
+    - assets/images/capcay.jpg
+    - assets/images/udang-putren.jpg
+    
+    
+    
+    
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
