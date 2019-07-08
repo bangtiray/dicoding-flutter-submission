@@ -1,6 +1,6 @@
 # bangtiray_app
 
-submissin 1 dicoding
+submissin 2 dicoding
 
 ## Getting Started
 
